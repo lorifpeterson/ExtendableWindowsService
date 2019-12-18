@@ -1,0 +1,5 @@
+Creating extendable windows Services using C# Part 1
+https://medium.com/@nyronwilliams/creating-extendable-windows-services-using-c-part-1-5dcd4e80a9e0
+
+Github:
+https://github.com/NyronW/Extendable-Windows-Service-Demo
